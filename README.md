@@ -4,7 +4,6 @@ A project created from Codecademy's Fullstack career path. The purpose of the ap
 
 ## Goals
 To test the functionalities of the React-Redux and the @reduxjs/toolkit packages
-    + understand the flow from the view => actions => state => view
     + configure individual slices use createSlice() from @reduxjs/toolkit 
     + configure the store using configureStore() from @reduxjs/toolkit
     + access the store with useSelector() form 'react-redux' and the respective selector 
